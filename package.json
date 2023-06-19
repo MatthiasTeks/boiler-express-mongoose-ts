@@ -1,5 +1,5 @@
 {
-  "name": "back-app-dogmind",
+  "name": "boiler-express-ts-mongoose",
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
